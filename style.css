@@ -1075,6 +1075,10 @@ body {
 }
 
 @media (max-width: 480px) {
+  .contact-item{
+    width: 95%;
+    margin: 20 auto;
+  }
   .hero-text h1 {
     font-size: 2rem;
   }
